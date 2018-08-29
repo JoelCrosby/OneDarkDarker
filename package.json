@@ -1,0 +1,22 @@
+{
+    "name": "one-dark-mini",
+    "displayName": "One Dark Mini",
+    "description": "Flat UI One Dark Pro",
+    "version": "0.0.1",
+    "publisher": "JoelCrosby",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Lite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Lite-color-theme.json"
+            }
+        ]
+    }
+}
