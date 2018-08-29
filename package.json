@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Lite",
+                "label": "One Dark Darker",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Lite-color-theme.json"
+                "path": "./themes/OneDarkDarker-color-theme.json"
             }
         ]
     }
