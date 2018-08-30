@@ -1,8 +1,8 @@
 {
-    "name": "one-dark-mini",
-    "displayName": "One Dark Mini",
-    "description": "Flat UI One Dark Pro",
-    "version": "0.0.1",
+    "name": "one-dark-darker",
+    "displayName": "One Dark Darker",
+    "description": "A Darker more minimal version of Binaryify's One Dark Pro Theme.",
+    "version": "1.0.0",
     "publisher": "JoelCrosby",
     "engines": {
         "vscode": "^1.26.0"
