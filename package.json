@@ -7,9 +7,14 @@
     "engines": {
         "vscode": "^1.26.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JoelCrosby/OneDarkDarker"
+    },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
@@ -18,5 +23,9 @@
                 "path": "./themes/OneDarkDarker-color-theme.json"
             }
         ]
+    },
+    "galleryBanner": {
+        "color": "#2d323b",
+        "theme": "dark"
     }
 }
