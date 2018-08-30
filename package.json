@@ -18,13 +18,9 @@
     "keywords": [
         "one dark",
         "onedark",
-        "one dark pro",
         "one dark darker",
         "darker",
-        "flat",
-        "minimal",
-        "theme",
-        "atom"
+        "theme"
       ],
     "contributes": {
         "themes": [
