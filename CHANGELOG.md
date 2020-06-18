@@ -14,7 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added new Icon.
 
-## [1.0.3] - 2018-08-30
+## [1.0.3] - 2020-06-18
 
 ### Added
 
