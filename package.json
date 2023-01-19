@@ -2,7 +2,7 @@
     "name": "one-dark-darker",
     "displayName": "One Dark Darker",
     "description": "A Darker more minimal version of Binaryify's One Dark Pro Theme.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "JoelCrosby",
     "engines": {
         "vscode": "^1.26.0"
